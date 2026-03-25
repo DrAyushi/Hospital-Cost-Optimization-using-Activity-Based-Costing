@@ -157,6 +157,37 @@ If implemented, this model can:
 
 👉 [View Full Report](Hospital_Annual_Cost_Summary.pdf)
 
+## 📸 Project Preview
+
+### 🔹 Problem & Cost Structure
+
+![Slide 1](1.jpg)
+
+### 🔹 Activity-Based Cost Allocation
+
+![Slide 4](4.jpg)
+
+### 🔹 Cost per Unit Analysis
+
+![Slide 7](7.jpg)
+
+### 🔹 Key Insights & Cost Drivers
+
+![Slide 10](10.jpg)
+
+### 🔹 Efficiency & Facility Comparison
+
+![Slide 14](14.jpg)
+
+### 🔹 Final Insights & Interpretation
+
+![Slide 17](17.jpg)
+
+### 🔹 Strategic Recommendations
+
+![Slide 18](18.jpg)
+
+
 ---
 
 ##  Why This Project Matters
