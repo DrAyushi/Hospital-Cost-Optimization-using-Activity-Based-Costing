@@ -160,8 +160,7 @@ If implemented, this model can:
 
 Click below to explore the complete analysis:
 
-[View Complete Hospital Cost Analysis Report](Hospital_Annual_Cost_Summary.pdf)
-
+ **[View Complete Hospital Cost Analysis Report](hospital-cost-analysis.pdf)**
 
 ## 📸 Project Preview
 
