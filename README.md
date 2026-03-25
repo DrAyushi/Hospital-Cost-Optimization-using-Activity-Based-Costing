@@ -155,7 +155,13 @@ If implemented, this model can:
 
 ##  Project Files
 
-👉 [View Full Report](Hospital_Annual_Cost_Summary.pdf)
+
+## 📄 Full Case Study
+
+Click below to explore the complete analysis:
+
+👉 **[View Complete Hospital Cost Analysis Report](Hospital_Annual_Cost_Summary.pdf)**
+
 
 ## 📸 Project Preview
 
